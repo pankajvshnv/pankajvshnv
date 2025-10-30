@@ -9,7 +9,7 @@
 <!--About me: start-->
 <img src="img/hi_there.png">
 
-<p>My name is Muhammad Faizan. A passionate developer from India. My main areas of interest are web and mobile development. Right now, I'm learning Flutter. Aside from this, I also do graphic design. In my spare time, I enjoy playing chess and reading.</p>
+<p>I'm Pankaj Bairagi, a passionate Data Science and AI/ML enthusiast from India. My main focus is on leveraging machine learning and data-driven insights to solve real-world problems. Currently, I’m exploring Python, deep learning, and predictive analytics, while also learning Flutter to integrate intelligent models into modern apps..</p>
 
 <!--About me: end-->
 
