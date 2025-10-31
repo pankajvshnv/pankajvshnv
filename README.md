@@ -7,23 +7,6 @@
 
 
 <!--About me: start-->
-<img src="img/hi_there.png">
-
-<p>I'm Pankaj Bairagi, a passionate Data Science and AI/ML enthusiast from India. My main focus is on leveraging machine learning and data-driven insights to solve real-world problems. Currently, I’m exploring Python, deep learning, and predictive analytics, while also learning Flutter to integrate intelligent models into modern apps..</p>
-
-<!--About me: end-->
-
-<!--Tech stack: start-->
-
-<img src="img/tech_stack.png">
-
-<img src="https://skillicons.dev/icons?i=,dart,python,kotlin,bash,md,html,css,js,mysql,postgres,laravel,vue,pinia,gradle,flutter,tailwind,alpinejs,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux&perline=15" />
-
-<!--Tech stack: end-->
-
-
-
-  
 
   ### 👋 I'm Your Name
   
@@ -33,6 +16,44 @@
   
   <p>I break down complex problems to create integrity-focused solutions that connect people.<br>
   Passionate about AI/ML, startup stories, and creating engaging digital experiences.</p>
+  
+<img src="img/hi_there.png">
+
+<p>I'm Pankaj Bairagi, a passionate Data Science and AI/ML enthusiast from India. My main focus is on leveraging machine learning and data-driven insights to solve real-world problems. Currently, I’m exploring Python, deep learning, and predictive analytics, while also learning Flutter to integrate intelligent models into modern apps..</p>
+
+<!--About me: end-->
+
+<!--Tech stack: start-->
+
+## 🛠️ My Tech Stack
+
+<div align="center">
+  
+  <h3>💡 We put your ideas and thus your wishes in the form of a unique web project that inspires you and your customers.</h3>
+  
+  <br>
+  
+  <!-- Main Data Science & ML Icons (using Skill Icons) -->
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,r,anaconda,mysql,postgres,mongodb,sqlite,redis,docker,git,github,vscode,pycharm,jupyterlab,linux,aws,flask&perline=10" />
+  
+  <br><br>
+  
+  <!-- Additional Data Science Tools (using custom badges) -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  
+</div>
+
+<!--Tech stack: end-->
+
   
   [![Download CV](https://img.shields.io/badge/Download-CV-7c3aed?style=for-the-badge&logo=download)](https://yourwebsite.com/cv.pdf)
   
