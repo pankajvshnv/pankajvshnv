@@ -21,30 +21,10 @@
 
 <!--Tech stack: end-->
 
-<!--Statistics: start-->
-
-<img src="img/statistics.png">
-
-  <img alt="Faizan's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=mralpha786&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
-  <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mralpha786&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286">
-
-<!--Statistics: end-->
-
-<!--More Details: start-->
-
-<img src="img/more_things.png">
-</div>
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Your%20Name&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
-</div>
-
-<div align="center">
   
-  <!-- Profile Image -->
-  <img src="https://github.com/yourusername.png" alt="Profile" width="200" style="border-radius: 50%; border: 5px solid #7c3aed;"/>
-  
+
   ### 👋 I'm Your Name
   
   # 🚀 Next-Level Developer & Content Creator
