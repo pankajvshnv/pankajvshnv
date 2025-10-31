@@ -1,5 +1,8 @@
-<div align="center">
-<img src="img/hero_banner.svg">
+<img width="3680" height="2300" alt="Black Purple 3D Artist Creative Portfolio Desktop Prototype" src="https://github.com/user-attachments/assets/ec20d83f-f769-44dd-87ea-90ed35d0ee72" /><div align="center">
+<img src="img/Black Purple 3D Artist Creative Portfolio Desktop Prototype.png">
+
+
+
 
 <!-- uncomment to change banner
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:4CB8C4,100:3CD3AD&height=300&section=header&text=Muhammad%20Faizan&fontSize=90&fontColor=FCFFE7" />
