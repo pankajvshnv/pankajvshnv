@@ -5,10 +5,6 @@
 
 <div align="center">
   
-  <h3>💡 We put your ideas and thus your wishes in the form of a unique web project that inspires you and your customers.</h3>
-  
-  <br>
-  
   <!-- Main Data Science & ML Icons (using Skill Icons) -->
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,r,anaconda,mysql,postgres,mongodb,sqlite,redis,docker,git,github,vscode,pycharm,jupyterlab,linux,aws,flask&perline=10" />
   
