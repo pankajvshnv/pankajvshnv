@@ -60,13 +60,8 @@
       </td>
       <td align="center" width="200">
         <img src="https://img.icons8.com/fluency/96/000000/project.png" width="50"/><br>
-        <h3>50+</h3>
+        <h3></h3>
         <p>Projects<br>Completed</p>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/fluency/96/000000/youtube-play.png" width="50"/><br>
-        <h3>1.5K+</h3>
-        <p>YouTube<br>Subscribers</p>
       </td>
       <td align="center" width="200">
         <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/><br>
