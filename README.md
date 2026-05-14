@@ -3,15 +3,7 @@
 <div align="center">
 <img src="img/Black Purple 3D AI ML Portfolio Desktop Prototype.png">
 
-## 🧠 AI & Data Science Tech Stack
 
-<div align="center">
-
-
-
-
-
-<div align="center">
 
 
 ## 💼 My Services
