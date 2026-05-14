@@ -7,10 +7,7 @@
 
 <div align="center">
 
-<!-- Core AI / Data Science Stack -->
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,r,anaconda,mysql,postgres,mongodb,sqlite,redis,docker,git,github,vscode,pycharm,jupyterlab,linux,aws,flask&perline=10" />
 
-<br><br>
 
 
 
